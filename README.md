@@ -31,7 +31,7 @@ Ushbu terilma kirill alifbosi uchun yechadigan muammolari:
 
 ## macOS
 
-1. Yuklab oling: [uzbek-typography-layouts-macOS.dmg](https://github.com/farhodjon/uzbek-typography-layouts/releases/download/latest/uzbek-typography-layouts-macOS.dmg)
+1. Yuklab oling: [uzbek-typography-layouts-macOS.dmg](https://github.com/farhodjon/uzbek-typography-layouts/releases/latest/download/uzbek-typography-layouts-macOS.dmg)
 2. Yuklab olingan faylini oching.
 3. `Uzbek Keyboard Layouts.bundle` faylini `Drag here to install` nomli yorliqqa yuboring (faylni sudrab yorliq ustiga tashlaysiz).
 4. *System Preferences* ichidan *Keyboard → Input Sources* ekraniga oʻtasiz.
@@ -39,7 +39,7 @@ Ushbu terilma kirill alifbosi uchun yechadigan muammolari:
 
 ## Windows
 
-1. Yuklab oling: [uzbek-typography-layouts-windows.zip](https://github.com/farhodjon/uzbek-typography-layouts/releases/download/latest/uzbek-typography-layouts-windows.zip)
+1. Yuklab oling: [uzbek-typography-layouts-windows.zip](https://github.com/farhodjon/uzbek-typography-layouts/releases/latest/download/uzbek-typography-layouts-windows.zip)
 2. Arxivni ochganingizdan soʻng ikkita papka paydo boʻladi: *uzbek-cyrillic-typography-layout-2.0* va *uzbek-latin-typography-layout-2.0*.
 3. Mos papkaga kirib `setup.exe` faylini ishga tushirasiz.
 4. Kompyuterni oʻchirib=yoqish talab qilishi mumkin.
