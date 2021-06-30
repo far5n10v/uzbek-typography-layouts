@@ -1,6 +1,6 @@
 # Oʻzbekcha tipografik klaviatura terilmalari
 
-Ushbu klaviatura terilmalari [Ilya Birmanning](https://ilyabirman.ru/) [tipografik terilmasi](https://ilyabirman.ru/projects/typography-layout/) asosida yaratilgan. Imkoni boricha original va Birman sxemasidagi belgilar saqlab qolingan.
+Ushbu klaviatura terilmalari [Ilya Birmanning tipografik terilmasi](https://ilyabirman.ru/projects/typography-layout/) asosida yaratilgan. Imkoni boricha original va Birman sxemasidagi belgilar saqlab qolingan.
 
 Ushbu klaviatura terilmalari oʻzbekcha alifbolardagi harflar va belgilarni Ilya Birman tipografik terilmasi bilan birlashtiradi. Ilya Birman terilmasi turli maxsus belgilarni oson kiritish imkoniyatini beradi. Masalan, Alt va < orqali « belgisini terish mumkin.
 
