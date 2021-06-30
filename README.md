@@ -4,6 +4,24 @@ Ushbu klaviatura terilmalari [Ilya Birmanning tipografik terilmasi](https://ilya
 
 Ushbu klaviatura terilmalari oʻzbekcha alifbolardagi harflar va belgilarni Ilya Birman tipografik terilmasi bilan birlashtiradi. Ilya Birman terilmasi turli maxsus belgilarni oson kiritish imkoniyatini beradi. Masalan, Alt va < orqali « belgisini terish mumkin.
 
+# Yangi terilmalar qilish yoki oʻzgartirish
+
+Terilmalarning oʻzgartirish mumkin boʻlgan fayllari `source` papkasi ichida. macOS va Windows uchun qilingan terilmalar faqat shu tizimlardagina oʻzgartirilishi mumkin.
+
+## macOS
+
+1. [Ukelele](https://software.sil.org/ukelele/) dasturini oʻrnating.
+2. Ukelele orqali `source/macOS/Uzbek Typography Layouts.bundle` faylini oching.
+3. Zarur oʻzgarishlarni qilib, shu dasturning oʻzidan terilmani tizimga oʻrnatish yoki reliz sifatida `DMG` faylga eksport qilish mumkin.
+
+macOS menyu panelida chiqadigan ikonkalar uchun `source/macOS/latin-layout-icon.icns` va `source/macOS/cyrillic-layout-icon.icns` fayllari ishlatiladi.
+
+## Windows
+
+1. [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) dasturini oʻrnating.
+2. `source/Windows` papkasi ichidagi zarur fayl (qaysi terilma kerakligiga qarab) shu dastur orqali ochiladi.
+3. Reliz eksport qilinganda dastur yangi papka yaratadi va uning ichidagi `setup.exe` faylini ishga tushirish orqali terilmani oʻrnatish mumkin.
+
 # Terilmalar haqida
 ## Lotin alifbosi
 
