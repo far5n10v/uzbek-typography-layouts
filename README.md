@@ -4,6 +4,7 @@ Ushbu klaviatura terilmalari [Ilya Birmanning tipografik terilmasi](https://ilya
 
 Ushbu klaviatura terilmalari oʻzbekcha alifbolardagi harflar va belgilarni Ilya Birman tipografik terilmasi bilan birlashtiradi. Ilya Birman terilmasi turli maxsus belgilarni oson kiritish imkoniyatini beradi. Masalan, Alt va < orqali « belgisini terish mumkin.
 
+# Terilmalar haqida
 ## Lotin alifbosi
 
 Ushbu terilmada asosiy eʼtibor qaratilgan:
@@ -26,3 +27,19 @@ Ushbu terilma kirill alifbosi uchun yechadigan muammolari:
 
 ![Kirill alifbosi terilmasi](images/cyrillic-layout@2x.png)
 
+# Oʻrnatish
+
+## macOS
+
+1. Yuklab oling: [uzbek-typography-layouts-macOS.dmg](https://github.com/farhodjon/uzbek-typography-layouts/releases/download/latest/uzbek-typography-layouts-macOS.dmg)
+2. Yuklab olingan faylini oching.
+3. `Uzbek Keyboard Layouts.bundle` faylini `Drag here to install` nomli yorliqqa yuboring (faylni sudrab yorliq ustiga tashlaysiz).
+4. *System Preferences* ichidan *Keyboard → Input Sources* ekraniga oʻtasiz.
+5. `+` tugmasini bosib roʻyxatdan yangi terilmalarni qoʻshasiz (xuddi boshqa terilmalarni qoʻshgandek). Ushbu terilmalar roʻyxatda oʻzbek tili sifatida chiqadi.
+
+## Windows
+
+1. Yuklab oling: [uzbek-typography-layouts-windows.zip](https://github.com/farhodjon/uzbek-typography-layouts/releases/download/latest/uzbek-typography-layouts-windows.zip)
+2. Arxivni ochganingizdan soʻng ikkita papka paydo boʻladi: *uzbek-cyrillic-typography-layout-2.0* va *uzbek-latin-typography-layout-2.0*.
+3. Mos papkaga kirib `setup.exe` faylini ishga tushirasiz.
+4. Kompyuterni oʻchirib=yoqish talab qilishi mumkin.
