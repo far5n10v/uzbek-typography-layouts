@@ -8,7 +8,7 @@ Ushbu klaviatura terilmalari oʻzbekcha alifbolardagi harflar va belgilarni Ilya
 
 Terilmalarning oʻzgartirish mumkin boʻlgan fayllari `source` papkasi ichida. macOS va Windows uchun qilingan terilmalar faqat shu tizimlardagina oʻzgartirilishi mumkin.
 
-Quyida keltirilgan terilma dizayni `source/layouts.sketch` faylida ([Sketch](https://www.sketch.com) dasturi kerak boʻladi).
+Terilma dizayni `source/layouts.sketch` faylida ([Sketch](https://www.sketch.com) dasturi kerak boʻladi).
 
 ## macOS
 
